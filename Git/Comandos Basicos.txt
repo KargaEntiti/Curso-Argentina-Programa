@@ -1,0 +1,22 @@
+Comandos Básicos
+
+git init
+inicia un directorio como repositorio git, crea un subdirectorio con todos los archivos para un seguimientos de los cambios
+
+git add <file>
+los cambios realizados quedan en el area de trabajo, por lo que es necesario pasarlos al area de preaparacion
+
+git status
+permite conocer el estado de los archivos
+
+git commit
+se coonfrirma todos los cambios
+
+git push
+evia todas las confirmaciones registradas al repositorio local
+
+git pull
+trae los cambios al repositioro local
+
+git clone
+permite bajar los repositorios remotos

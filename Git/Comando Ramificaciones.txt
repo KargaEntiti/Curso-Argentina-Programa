@@ -1,0 +1,16 @@
+Ramificacion
+
+git branch
+comando principal, permite listar las ramas
+
+git branch <branch>
+crea una rama nueva
+
+git branch -d <branch>
+eliminar rama
+
+git branch -m <branch>
+cambiar nombre de rama
+
+git branch -a
+listar todas las ramas
