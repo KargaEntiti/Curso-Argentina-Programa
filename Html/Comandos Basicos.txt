@@ -37,3 +37,18 @@ El nombre de archivo de la imagen de origen está especificado por el atributo s
 
 <a>  El Elemento HTML Anchor <a> crea un enlace a otras páginas de Internet, archivos o ubicaciones dentro de la misma página, direcciones de correo, o cualquier otra URL que especifiquemos en sus atributos. Se puede representar así <a href="https://developer.mozilla.org/es/docs/Web/HTML/Element/a"> </a> donde la dirección del enlace está especificada por el atributo href. 
 Dentro del atributo href la URL puede escribirse de forma absoluta (incluyendo el dominio) o relativa (sin incluir el dominio) solo para enlaces dentro del mismo dominio. Tanto de una forma u otra, la ruta de carpetas debe especificarse.
+
+Texto en negrita
+Todo lo que aparece dentro del elemento  <b> ... </b>  se muestra en negrita
+
+Texto en cursiva
+Todo lo que aparece dentro del elemento  <i> ... </i>  se muestra en cursiva
+
+Texto subrayado
+Todo lo que aparece dentro del elemento  <u> ... </u>  se muestra subrayado
+
+Texto de tachado
+Todo lo que aparece dentro del elemento  <strike> ... </strike>  se muestra tachado
+
+Fuente monoespaciada
+El contenido de un elemento  <tt> ... </tt>  está escrito en fuente monoespaciada. La mayoría de las fuentes se conocen como fuentes de ancho variable porque diferentes letras tienen diferentes anchos (por ejemplo, la letra 'm' es más ancha que la letra 'i'). Sin embargo, en una fuente monoespaciada, cada letra tiene el mismo ancho.
