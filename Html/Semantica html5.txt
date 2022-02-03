@@ -1,0 +1,46 @@
+Elemento HTML <section>
+El  elemento <section> define una sección en un documento. Según la documentación HTML del W3C: " Una sección es una agrupación temática de contenido, normalmente con un encabezado ". 
+
+Una página web normalmente se puede dividir en secciones para la introducción, el contenido y la información de contacto.
+
+Elemento HTML <article>
+El elemento <article> especifica contenido autónomo e independiente. Un artículo debe tener sentido por sí solo y debe ser posible distribuirlo independientemente del resto del sitio web.
+
+Ejemplos de dónde se puede utilizar un elemento <article>:
+
+Publicación en el foro
+Entrada en el blog
+Artículo de periódico
+Elemento HTML <header>
+El elemento <header> sirve para especificar contenido de tipo introductorio o un conjunto de enlaces de navegación.
+
+Un elemento <header> normalmente contiene:
+
+Uno o más elementos de encabezado (<h1> - <h6>).
+Logo o icono.
+Información de autoría.
+Nota: puede tener varios elementos <encabezado> en un documento HTML. Sin embargo, el elemento <header> no puede ser colocado dentro de elementos <footer>, <address> o dentro de otro elemento <header>.
+
+Elemento HTML <pie de página>
+El elemento <footer> define un pie de página para un documento o sección.
+
+Un elemento <footer> normalmente contiene:
+
+Información de autoría.
+Información registrada.
+Información de contacto.
+Mapa del sitio.
+Volver a los enlaces superiores.
+Documentos relacionados.
+Puede tener varios elementos <footer> en un documento.
+
+Elemento HTML <nav>
+El elemento HTML <nav> representa una sección de una página cuyo propósito es proporcionar enlaces de navegación, ya sea dentro del documento actual o en otros documentos. Ejemplos comunes de secciones de navegación son: menús, tablas de contenido e índices. 
+
+Debemos tener en cuenta que NO todos los enlaces de un documento deben estar dentro de un elemento <nav>. El elemento <nav> está destinado sólo para el bloque principal de enlaces de navegación.
+
+Los navegadores, como los lectores de pantalla para usuarios con capacidades diferentes, pueden utilizar este elemento para determinar si se debe omitir la representación inicial de este contenido.
+
+Elemento HTML <aside>
+
+El elemento HTML <aside> representa una sección de una página que consiste en contenido que está indirectamente relacionado con el contenido principal del documento. Estas secciones son a menudo representadas como barras laterales o como inserciones y contienen una explicación al margen como una definición de glosario, elementos relacionados indirectamente, como publicidad, la biografía del autor, o en aplicaciones web, la información de perfil o enlaces a blogs relacionados .

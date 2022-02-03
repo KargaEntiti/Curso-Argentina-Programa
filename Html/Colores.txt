@@ -1,0 +1,40 @@
+Colores
+Los colores son muy importantes para darle una buena apariencia a tu sitio web. Puedes especificar colores a nivel de página usando la etiqueta <body> o puedes establecer colores para etiquetas individuales usando el atributo bgcolor.
+
+La etiqueta <body> tiene los siguientes atributos que se pueden usar para establecer diferentes colores:
+
+bgcolor: establece un color para el fondo de la página.
+
+texto: establece un color para el cuerpo del texto.
+
+alink: establece un color para los enlaces activos o los enlaces seleccionados.
+
+vínculo: establece un color para el texto vinculado.
+
+vlink: establece un color para los enlaces visitados, es decir, para el texto vinculado en el que ya ha hecho clic.
+
+
+
+Métodos de codificación de colores HTML
+Existen tres métodos diferentes para configurar los colores en tu página web:
+
+Nombres de colores: puede especificar nombres de colores directamente como green, blue o red.
+
+Códigos hexadecimales: un código de seis dígitos que representa la cantidad de rojo , verde y azul que compone el color.
+
+Valores decimales o porcentuales de color: este valor se especifica mediante la propiedad rgb ().
+
+Ahora veremos estos esquemas de coloración uno por uno.
+
+Colores HTML - Nombres de colores
+Puedes especificar un nombre de color directo para establecer el texto o el color de fondo. W3C ha enumerado 16 nombres de colores básicos que se validarán con un validador HTML, pero hay más de 200 nombres de colores diferentes compatibles con los principales navegadores.
+
+Nota: te dejamos para que consultes una lista completa de nombres de colores HTML.
+
+Estándar W3C 16 colores
+Aquí está la lista de nombres de 16 colores estándar del W3C y se recomienda usarlos.
+
+black		gray		silver		white
+yellow		lime		aqua		fuchsia
+red		green		blue		purple
+maroon		olive		navy		teal
