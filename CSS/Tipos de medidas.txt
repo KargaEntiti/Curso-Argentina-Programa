@@ -1,0 +1,28 @@
+tipos de medidas
+
+% 
+porcentaje en base a otro
+
+cm
+centimetros
+
+em
+una distancia en base a la fuerte de letra
+
+ex
+valor basado en la altura de la fuente minuscula
+
+in
+pulgadas
+
+mm
+milimetros
+
+pc
+picas 12 picas es igual a un punto
+
+pt
+medida en puntos 1/72 pulgadas
+
+px
+pixeles

@@ -13,3 +13,9 @@ Propiedad: permite modificar el aspecto de una característica del elemento.
 
 (black)
 Valor: indica el nuevo valor de la característica modificada en el elemento.
+
+Margen
+margin-top => Margen superior 
+margin-right => Margen derecho
+margin-bottom => Margen inferior 
+margin-left => Margen izquierdo
