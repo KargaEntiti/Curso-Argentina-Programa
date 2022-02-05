@@ -1,0 +1,15 @@
+Reglas de CSS
+
+h1 {color:black;}
+
+(h1)
+Selector: indica el elemento o elementos HTML a los que se aplica la regla CSS.
+
+(color:black;)
+Declaración: especifica los estilos que se aplican a los elementos. 
+
+(color)
+Propiedad: permite modificar el aspecto de una característica del elemento.
+
+(black)
+Valor: indica el nuevo valor de la característica modificada en el elemento.
