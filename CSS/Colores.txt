@@ -1,0 +1,6 @@
+Formato				Sintaxis		Ejemplo
+Código hexadecimal		#RRGGBB			p {color: #FF0000;}
+Código hexadecimal corto	#RGB			p {color: #6A7;}
+RGB %				rgb (rrr%, ggg%, bbb%)	p {color: rgb (50%, 50%, 50%);}
+Absoluto RGB			rgb (rrr, ggg, bbb)	p {color: rbg (0,0,255);}
+Palabra Clave			aquamarine, black	p {color: teal;}

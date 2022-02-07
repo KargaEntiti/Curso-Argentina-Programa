@@ -1,0 +1,163 @@
+Ejemplo 1: Instalación atada, compilada y minimizada
+
+
+
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+
+    <!-- Required meta tags -->
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+
+    <link href="dist/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <title>Instalación atada, compilada y minimizada</title>
+
+  </head>
+
+  <body>
+
+    <h1>Atado, compilado y minimizado</h1>
+
+    <!-- Bootstrap JS -->
+
+    <script src="dist/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>
+
+
+
+
+
+Ejemplo 2: Instalación atada y compilada
+
+
+
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+
+    <!-- Required meta tags -->
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+
+    <link href="dist/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <title>Instalación atada y compilada</title>
+
+  </head>
+
+  <body>
+
+    <h1>Atado y compilado</h1>
+
+    <!-- Bootstrap JS -->
+
+    <script src="dist/bootstrap/js/bootstrap.bundle.js"></script>
+
+  </body>
+
+</html>
+
+
+
+
+
+
+
+ 
+
+Ejemplo 3: Instalación separada, compilada y minimizada
+
+
+
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+
+    <!-- Required meta tags -->
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+
+    <link href="dist/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <title>Instalación separada, compilada y minimizada</title>
+
+  </head>
+
+  <body>
+
+    <h1>Separado, compilado y minimizado</h1>
+
+    <!-- Bootstrap JS -->
+
+    <script src="dist/bootstrap/js/bootstrap.min.js"></script>
+
+    <script src="dist/bootstrap/js/bootstrap.esm.min.js"></script>
+
+  </body>
+
+</html>
+
+
+
+
+
+Figura Ejemplo 4: Instalación separada, compilada y minimizada
+
+
+
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+
+    <!-- Required meta tags -->
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">  
+
+    <!-- Bootstrap CSS -->
+
+    <link href="dist/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <title>Instalación separada y compilada</title>
+
+  </head>
+
+  <body>
+
+    <h1>Separado y compilado</h1>
+
+    <!-- Bootstrap JS -->
+
+    <script src="dist/bootstrap/js/bootstrap.js"></script>
+
+    <script src="dist/bootstrap/js/bootstrap.esm.js"></script>
+
+  </body>
+
+</html>

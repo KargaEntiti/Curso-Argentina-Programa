@@ -1,0 +1,31 @@
+Columnas de Ancho Automático
+
+<div class="container">
+
+    <div class="row">
+
+      <div class="col"> Column </div>
+
+      <div class="col"> Column </div>
+
+      <div class="col"> Column </div>
+
+    </div>
+
+  </div>
+
+
+
+Columnas de Ancho Fijo
+
+<div class="container">
+
+    <div class="row">
+
+      <div class="col-4"> Column </div>
+
+      <div class="col-8"> Column </div>
+
+    </div>
+
+  </div>

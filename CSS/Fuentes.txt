@@ -1,0 +1,12 @@
+La propiedad font-family se utiliza para cambiar la cara de una fuente.
+
+La propiedad de estilo de fuente (font-style) se usa para hacer una fuente en cursiva u oblicua.
+
+La propiedad font-variant se utiliza para crear un efecto de versalitas.
+
+La propiedad de peso de fuente (font-weight) se utiliza para aumentar o disminuir la negrita o la luz de una fuente.
+
+La propiedad de tamaño de fuente (font-size) se utiliza para aumentar o disminuir el tamaño de una fuente.
+
+La propiedad de fuente (font) se utiliza como forma abreviada para especificar otras propiedades de fuente.
+
