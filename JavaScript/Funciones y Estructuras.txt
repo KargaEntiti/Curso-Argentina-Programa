@@ -1,0 +1,108 @@
+Funciones y estructuras
+
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+
+
+La declaración de una función consiste en:
+
+1.Un nombre
+2.Una lista de parámetros o argumentos encerrados entre paréntesis.
+3.Conjunto de sentencias JavaScript encerradas entre llaves.
+ 
+function nombre (parámetro1, parámetro2)
+
+{
+
+    // código que ha de ser ejecutado;
+
+}
+
+Sentencia for 
+Un bucle for se repite hasta que la condición especificada se evalúa como falsa. 
+
+ 
+for ([expresion-inicial]; [condicion]; [expresion-final]) {
+
+    // código ha ser ejecutado;
+
+}
+
+ejemplo:
+
+for (var i = 0; i <10; i ++) {
+
+    console.log ("Número:" + i);
+
+}
+ 
+
+Sentencia while (mientras)
+Una sentencia while ejecuta sus sentencias mientras la condición sea como verdadera. Una sentencia while tiene el siguiente aspecto:
+
+ 
+while ([condicion]) {
+
+    // código ha ser ejecutado;
+
+}
+
+
+Sentencia do-while (hasta)
+Se utiliza para repetir instrucciones un número indefinido de veces, hasta que se cumpla una condición. A diferencia de la estructura mientras (while), la estructura hasta (do while) se ejecutará al menos una vez. Ejemplo:
+
+ 
+
+let resultado = '';
+
+let ​​i = 0;
+
+ 
+
+do {
+
+  i = i + 1;
+
+  resultado = resultado + i;
+
+} while (i <5);
+
+ 
+
+console.log (resultado);
+
+// resultado esperado: "12345"
+
+Sentencia continue (continuar)
+La sentencia continue puede usar para reiniciar una sentencia for, while o do-while, continue termina la iteración en curso del código y continúa la ejecución del bucle con la siguiente iteración. A diferencia de la sentencia break, continue no termina completamente la ejecución del bucle. 
+
+ 
+
+do{
+
+  i = i + 1;
+
+  continue;
+
+} while(i <5);
+
+Sentencia break (romper)
+La sentencia break se utiliza para salir de un bucle, switch. Break finaliza inmediatamente el código encerrado en un for, while, do-while o switch y transfiere el control a la siguiente sentencia.
+
+ 
+
+do{
+
+  i = i + 1;
+
+  if (i == 3) break;
+
+} while(i <5);

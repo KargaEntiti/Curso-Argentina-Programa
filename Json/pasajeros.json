@@ -1,0 +1,53 @@
+[{
+    "nombre": "Laura",
+    "apellido": "Rodriguez",
+    "edad": 24,
+    "precioAsiento": 224.40,
+    "pagado": true,
+    "asiento":{
+        "numero": 13,
+        "Letra": "F",
+        "cargador": false
+    },
+    "historial": [
+    {
+        "salida": "Nueva York",
+        "destino": "Chicago",
+        "fecha": "10/10/2020"
+
+    },
+    {
+        "salida": "Madrid",
+        "destino": "Barcelona",
+        "fecha": "9/8/2020"
+        
+    }
+    ]
+},
+{
+    "nombre": "Juan",
+    "apellido": "Rodriguez",
+    "edad": 24,
+    "precioAsiento": 224.40,
+    "pagado": true,
+    "asiento":{
+        "numero": 13,
+        "Letra": "F",
+        "cargador": false
+    },
+    "historial": [
+    {
+        "salida": "York",
+        "destino": "Calafate",
+        "fecha": "10/10/2015"
+
+    },
+    {
+        "salida": "Caña",
+        "destino": "Tevez",
+        "fecha": "9/8/2010"
+        
+    }
+    ]
+}
+]

@@ -1,0 +1,16 @@
+typescript
+
+var	(guarda los datos)
+let 	(var pero nuevo) 
+const	(no puede modificar su valor)
+
+let no es necesario darle un valor inicial
+
+ejemplo
+
+let edad : numbre=42;
+let edad=42;
+
+let a: numbrer;	//explicita
+let b: string;	//explicita
+let c=101; 	//implicita

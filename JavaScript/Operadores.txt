@@ -1,0 +1,54 @@
+Operadores Matematicos
+Operador	Descripción					Ejemplo
+
++		Suma 						let ​​suma = 5 + 7; // = 12
+		Suma dos números
+
+-		Resta 						let ​​resta = 7-2; // = 5
+		Resta dos números		
+
+*		Multiplicación 					let ​​mul = 5 * 7; // = 35
+		Multiplica dos números
+
+/		División 					let ​​div = 15/3; // = 5
+		Dividir dos números
+
+%		Módulo 						let ​​mod = 17% 4; // = 1
+		Devuelve el resto de dividir de dos números
+
+++		Incremento 					let ​​i = 1; i ++; // = 2
+		Suma 1 valor al contenido de una variable
+
+--		Decremento 					let ​​i = 2; i--; // = 1
+		Resta un valor al contenido de una variable
+
+
+Operadores lógicos 
+
+Operador 	Descripción
+==		Igualdad 
+		Devuelve verdadero (true) si ambos operandos son iguales.
+
+!=		Desigualdad
+		Devuelve verdadero (true) si ambos operandos no son iguales.
+
+>=		Mayor o igual que	
+		Devuelve verdadero (true) si el operando de la izquierda es mayor o igual que el operando de la derecha.
+
+>		Mayor
+		Devuelve verdadero (true) si el operando de la izquierda es mayor que el operando de la derecha.
+
+<		Menor
+		Devuelve verdadero (true) si el operando de la izquierda es menor que el operando de la derecha.
+
+=<		Menor o igual que
+		Devuelve verdadero (true) si el operando de la izquierda es menor o igual que el operando de la derecha
+
+
+Operador condicional (ternario)
+
+El operador condicional es el único operador de JavaScript que necesita tres operadores. El operador asigna uno de dos valores basado en una condición. 
+
+La sintaxis de este operador es: condición? valor1: valor2. Si la condición es verdadera, el operador tomará el valor 1, de lo contrario tomará el valor 2. Se puede usar el operador condicional en cualquier lugar que use un operador estándar. Ejemplo: esta sentencia asigna el valor adulto a la variable estado si la edad es mayor o igual a 18, de lo contrario le asigna el valor menor:
+
+var estado = (edad>= 18)? "adulto": "menor";
