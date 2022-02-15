@@ -1,0 +1,10 @@
+Clases typescritp
+
++ publico
+# protegido
+- privado
+
+Public : un miembro público es accesible tanto desde el interior de la clase (por sus propios métodos), como desde el exterior de la misma (por métodos de otras clases).
+●      Private: sólo es accesible desde el interior de la propia clase, usando sus propios métodos.
+●      Readonly:  El acceso es de sólo lectura.
+●      Protected: aplicable en contextos de herencia (tema que veremos más adelante), hace que un miembro sea público para sus clases derivadas y para clases en el mismo paquete, pero los hace privados para el resto.
